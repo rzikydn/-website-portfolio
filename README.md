@@ -4,6 +4,8 @@ Ini adalah project **Website Portfolio Pribadi** yang saya buat untuk memenuhi t
 
 Website ini dibuat menggunakan **React.js** dengan tujuan menampilkan profil pribadi, pengalaman, keahlian, dan kontak sebagai representasi online diri saya sebagai developer.
 
+Demo website bisa diakses melalui link berikut: https://rzikydn.netlify.app
+
 ---
 
 ## 📸 Preview Website
