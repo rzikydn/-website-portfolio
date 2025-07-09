@@ -28,8 +28,7 @@ Demo website bisa diakses melalui link berikut: https://rzikydn1.netlify.app
 
 - React.js
 - React Router DOM
-- HTML & CSS (atau Tailwind CSS, tergantung)
-- [Tambahkan jika kamu pakai library seperti AOS, EmailJS, dsb]
+- HTML & CSS 
 
 ---
 
