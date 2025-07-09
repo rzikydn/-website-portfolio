@@ -34,7 +34,7 @@ Demo website bisa diakses melalui link berikut: https://rzikydn1.netlify.app
 
 ## 📁 Struktur Folder
 
-<pre> ```developer-portfolio3/
+<pre> developer-portfolio3/
 ├── public/
 │ └── index.html
 ├── src/
@@ -43,7 +43,7 @@ Demo website bisa diakses melalui link berikut: https://rzikydn1.netlify.app
 │ ├── assets/
 │ └── App.js
 ├── README.md
-└── package.json``` </pre>
+└── package.json </pre>
 
 📄 Lisensi
 Project ini dibuat untuk keperluan pembelajaran dan tugas perkuliahan. Tidak diperkenankan menyalin ulang tanpa izin pembuat.
