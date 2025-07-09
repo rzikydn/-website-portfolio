@@ -8,7 +8,7 @@ Website ini dibuat menggunakan **React.js** dengan tujuan menampilkan profil pri
 
 ## 📸 Preview Website
 
-> 💡 ![WhatsApp Image 2025-07-09 at 08 45 31_f8dc280c](https://github.com/user-attachments/assets/28b4f046-f529-45c2-bf81-2dead4e1468a)
+>  ![WhatsApp Image 2025-07-09 at 08 45 31_f8dc280c](https://github.com/user-attachments/assets/28b4f046-f529-45c2-bf81-2dead4e1468a)
 
 ---
 
